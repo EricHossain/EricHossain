@@ -19,7 +19,15 @@ Computer Science Student |  Full-Stack Enthusiast | Developing in Python & Java 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 
+## 🚀 Projects
 
+- **[KrademLightStore](https://github.com/EricHossain/KrademLightStore)** — 
+Full-stack digital store sold commercially 
+to game development studios within ROBLOX platform. 
+
+- **[Project Management Discord Bot](https://github.com/EricHossain/Project-Management-Discord-Bot)** — 
+Node.js studio management bot built with discord.js v14. Native Discord UX 
+using buttons, modals and slash commands.
 
 
 <!--
